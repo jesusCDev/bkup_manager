@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore the drives.json file
+data/*
+logs/*
+
+# Ignore Python cache files and directories
+**/__pycache__/
+*.py[cod]
+
+# Ignore VS Code settings directory
+.vscode/

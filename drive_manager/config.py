@@ -1,0 +1,6 @@
+PORTAL_IGNORE_FOLDER_LIST_KEY = 'portal_ignore_folder_list'
+LOCAL_IGNORE_FOLDER_LIST_KEY  = 'local_ignore_folder_list'
+BACKUP_TYPE_KEY               = 'backup_type'
+BACKUP_FOLDER_NAME_KEY        = 'backup_folder_name'
+DISK_LOCATION_KEY             = 'drive_location'
+DISK_NAME_KEY                 = 'drive_name'
