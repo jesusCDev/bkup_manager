@@ -1,4 +1,4 @@
-# Backup Automation and Logging System
+# Backup Manager
 
 ## Overview
 This project automates the backup of files and directories to specific locations, supporting both local and portal backups. It includes comprehensive logging capabilities to facilitate monitoring and debugging. Key features include the use of `rsync` for efficient file synchronization, the ability to run in both production and test modes, and notifications on backup completion.
