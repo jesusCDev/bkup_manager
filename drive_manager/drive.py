@@ -1,6 +1,7 @@
 from pathlib import Path
 from typing import List, Dict
 
+
 class Drive:
     directories           = []
     excluded_main_folders = []
